@@ -1,11 +1,3 @@
-## Hello!
-### **Who Am I?**
-- Im just a guy who experiments with different things on the internet.
-- I currently know Lua and Python, but I code Lua more.
-### **Contact Me**
-- [my website](https://nikoniyazi.github.io)
-- [my rblx account](https://www.roblox.com/users/1369915386/profile)
-- [guilded](https://guilded.gg/s0meone)
-- [discord](https://discord.com/users/829364460887474216)
-### *More*
-- Pronouns : he/him
+<p><strong>LINKTREE : <a href="linktr.ee/realniko">linktr.ee/realniko</a></strong></p>
+<p><strong><em>pronouns :</em></strong><em> he/him</em></p>
+<p><strong><img src="https://github-readme-stats.vercel.app/api?username=NikoNiyazi&amp;count_private=true&amp;show_icons=true&amp;theme=chartreuse-dark" alt="" /></strong><strong><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoNiyazi&amp;theme=chartreuse-dark&amp;layout=compact" alt="" /></strong></p>
