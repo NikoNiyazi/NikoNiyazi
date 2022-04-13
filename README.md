@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**NikoNiyazi/NikoNiyazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello!
+### **Who Am I?**
+- Im just a guy who experiments with different things on the internet.
+- I currently know Lua and Python, but I code Lua more.
+### **Contact Me**
+- [my website](https://nikoniyazi.github.io)
+- [my rblx account](https://www.roblox.com/users/1369915386/profile)
+- [guilded](https://guilded.gg/s0meone)
+- [discord](https://discord.com/users/829364460887474216)
+### *More*
+- Pronouns : he/him
